@@ -1,8 +1,10 @@
 **SALES ANALYTICS PROJECT**
+
 Project Introduction
 AtliQ Hardware is a global hardware supplier specializing in computer hardware and components. With a focus on data-driven decision-making, AtliQ is integrating sales analytics into its operations. Acknowledging the importance of strategic insights, AtliQ aims to optimize sales strategies, identify growth opportunities, and enhance financial decision-making capabilities.
 Project Objective
 Facing the challenge of optimizing sales and improving net gross margins, the project's objective is to create a comprehensive sales report. This report will analyze AtliQ Hardware's market performance for the year 2019, 2020, and 2021, providing valuable insights for informed decision-making.
+
 ● Sales Analytics Report
 
 Customer Net Sales Performance
